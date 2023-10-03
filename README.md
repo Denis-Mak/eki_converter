@@ -1,0 +1,1 @@
+Converter for EKI (www.eki.ee/dict/evs/) Eesti-Vene dictionary to XDXF dictionary format.

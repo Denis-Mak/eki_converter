@@ -1,0 +1,871 @@
+<x:A x:KF="ev21">
+    <x:P>
+        <x:mg>
+            <x:m x:O="aabits">aabits</x:m>
+            <x:sl>s</x:sl>
+            <x:grg>
+                <x:mv>aabits aabitsa aabitsa[t -, aabitsa[te aabitsa[id</x:mv>
+                <x:sl1>s</x:sl1>
+                <x:mt>02</x:mt>
+            </x:grg>
+        </x:mg>
+    </x:P>
+    <x:S>
+        <x:tp x:tnr="1">
+            <x:tg>
+                <x:xp xml:lang="ru">
+                    <x:xg>
+                        <x:x>букв"арь</x:x>
+                        <x:vg>
+                            <x:vgvormid>буквар"я</x:vgvormid>
+                            <x:vgsugu>м</x:vgsugu>
+                        </x:vg>
+                    </x:xg>
+                    <x:xg>
+                        <x:x>"азбука</x:x>
+                        <x:vg>
+                            <x:vgvormid>"азбуки</x:vgvormid>
+                            <x:vgsugu>ж</x:vgsugu>
+                        </x:vg>
+                        <x:s x:l="ka">piltl</x:s>
+                    </x:xg>
+                    <x:xg>
+                        <x:x>аз"ы</x:x>
+                        <x:vg>
+                            <x:vgvormid>аз"ов</x:vgvormid>
+                            <x:vgarv>pl</x:vgarv>
+                        </x:vg>
+                        <x:vrek>чего</x:vrek>
+                        <x:s>piltl</x:s>
+                    </x:xg>
+                </x:xp>
+            </x:tg>
+            <x:np>
+                <x:ng>
+                    <x:n>liikuv aabits</x:n>
+                    <x:qnp>
+                        <x:qng xml:lang="ru">
+                            <x:qn>складн"ая "азбука</x:qn>
+                        </x:qng>
+                        <x:qng xml:lang="ru">
+                            <x:qn>к"асса для б"укв</x:qn>
+                        </x:qng>
+                    </x:qnp>
+                </x:ng>
+                <x:ng>
+                    <x:n>kukeaabits</x:n>
+                    <x:qnp>
+                        <x:qng xml:lang="ru">
+                            <x:qn>"азбука</x:qn>
+                        </x:qng>
+                        <x:qng xml:lang="ru">
+                            <x:qn>букв"арь</x:qn>
+                        </x:qng>
+                    </x:qnp>
+                </x:ng>
+                <x:ng>
+                    <x:n x:w="nn">pildiaabits</x:n>
+                    <x:n>piltidega aabits</x:n>
+                    <x:qnp>
+                        <x:qng xml:lang="ru">
+                            <x:qn>иллюстр"ированный букв"арь</x:qn>
+                        </x:qng>
+                        <x:qng xml:lang="ru">
+                            <x:qn>букв"арь с карт"инками</x:qn>
+                        </x:qng>
+                    </x:qnp>
+                </x:ng>
+                <x:ng>
+                    <x:n>käitumise aabits</x:n>
+                    <x:qnp>
+                        <x:qng xml:lang="ru">
+                            <x:qn>"азбука повед"ения</x:qn>
+                        </x:qng>
+                    </x:qnp>
+                </x:ng>
+                <x:ng>
+                    <x:n>muusika aabits</x:n>
+                    <x:qnp>
+                        <x:qng xml:lang="ru">
+                            <x:qn>аз"ы &amp;v; осн"овы м"узыки</x:qn>
+                        </x:qng>
+                    </x:qnp>
+                </x:ng>
+                <x:ng>
+                    <x:n>aabitsa järgi õppima</x:n>
+                    <x:qnp>
+                        <x:qng xml:lang="ru">
+                            <x:qn>уч"иться по буквар"ю</x:qn>
+                        </x:qng>
+                    </x:qnp>
+                </x:ng>
+                <x:ng>
+                    <x:n>ta veerib alles aabitsat</x:n>
+                    <x:qnp>
+                        <x:qng xml:lang="ru">
+                            <x:qn>он чит"ает ещё т"олько по слог"ам</x:qn>
+                        </x:qng>
+                    </x:qnp>
+                </x:ng>
+            </x:np>
+        </x:tp>
+    </x:S>
+    <x:G>0621ac7b-9fc6-4d0c-bc9f-a80de6155c87</x:G>
+</x:A>
+
+<x:A x:KF="ev21">
+<x:P>
+    <x:mg>
+        <x:m x:i="1" x:O="kurk1">kurk</x:m>
+        <x:sl>s</x:sl>
+        <x:grg>
+            <x:mv>k'urk kurgi k'urki k'urki, k'urki[de k'urki[sid_&amp;_k'urk/e</x:mv>
+            <x:sl1>s</x:sl1>
+            <x:mt>22</x:mt>
+        </x:grg>
+    </x:mg>
+</x:P>
+<x:S>
+    <x:tp x:tnr="1">
+        <x:tg>
+            <x:dg>
+                <x:d>köögiviljataim</x:d>
+                <x:d>selle vili</x:d>
+            </x:dg>
+            <x:xp xml:lang="ru">
+                <x:xg>
+                    <x:x>огур"ец</x:x>
+                    <x:vg>
+                        <x:vgvormid>огурц"а</x:vgvormid>
+                        <x:vgsugu>м</x:vgsugu>
+                    </x:vg>
+                </x:xg>
+            </x:xp>
+        </x:tg>
+        <x:np>
+            <x:ng>
+                <x:n>harilik kurk</x:n>
+                <x:qnp>
+                    <x:v>bot</x:v>
+                    <x:ld xml:lang="la">Cucumis sativus</x:ld>
+                    <x:qng xml:lang="ru">
+                        <x:qn>обыкнов"енный &amp;v; посевн"ой огур"ец</x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n>varane kurk</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>р"анний &amp;v; раннесп"елый огур"ец</x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n>hapendatud kurgid</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>солёные огурц"ы</x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n>marineeritud kurgid</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>марин"ованные огурц"ы</x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n x:w="nn">avamaakurk</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>огурц"ы [из] откр"ытого гр"унта</x:qn>
+                    </x:qng>
+                    <x:qng xml:lang="ru">
+                        <x:qn>огурц"ы, выр"ащиваемые &amp;v; в"ыращенные в откр"ытом гр"унте</x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n x:u="mn">hapukurk</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>солёный огур"ец</x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n>kasvuhoonekurk</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>тепл"ичные огурц"ы</x:qn>
+                    </x:qng>
+                    <x:qng xml:lang="ru">
+                        <x:qn>огурц"ы, выр"ащиваемые &amp;v; в"ыращенные в тепл"ице</x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n>lavakurk</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>парник"овые огурц"ы</x:qn>
+                    </x:qng>
+                    <x:qng xml:lang="ru">
+                        <x:qn>огурц"ы, выр"ащиваемые &amp;v; в"ыращенные в парник"е</x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n x:w="nn">peenrakurk</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>гр"ядковые &amp;v; грядн"ые огурц"ы</x:qn>
+                    </x:qng>
+                    <x:qng xml:lang="ru">
+                        <x:qn>огурц"ы, выр"ащиваемые &amp;v; в"ыращенные на гр"ядке</x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n>soolakurk</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>солёный огур"ец</x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n>kurki &amp;v; kurke kasvatama</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>выр"ащивать/в"ырастить* огурц"ы</x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n>kurke soolama</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>зас"аливать/засол"ить* &amp;v; сол"ить/засол"ить* огурц"ы</x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n>kurke sisse tegema</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>заготовл"ять/загот"овить* &amp;v; загот"авливать/загот"овить* огурц"ы</x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n>ostsin turult värsket kurki</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>я куп"ил на р"ынке св"ежих огурц"ов</x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+        </x:np>
+    </x:tp>
+</x:S>
+<x:G>f6ab4fec-665b-460b-abcc-635a7a4fbcab</x:G>
+</x:A>
+
+<x:A x:KF="ev21">
+<x:P>
+    <x:mg>
+        <x:m x:i="2" x:O="kurk2">kurk</x:m>
+        <x:sl>s</x:sl>
+        <x:grg>
+            <x:mv>k'urk kurgu k'urku k'urku, k'urku[de k'urku[sid_&amp;_k'urk/e</x:mv>
+            <x:sl1>s</x:sl1>
+            <x:mt>22</x:mt>
+        </x:grg>
+    </x:mg>
+</x:P>
+<x:S>
+    <x:tp x:tnr="1">
+        <x:tg>
+            <x:dg>
+                <x:d>üldkeeles</x:d>
+            </x:dg>
+            <x:xp xml:lang="ru">
+                <x:xg>
+                    <x:x>г"орло</x:x>
+                    <x:vg>
+                        <x:vgvormid>г"орла</x:vgvormid>
+                        <x:vgsugu>с</x:vgsugu>
+                    </x:vg>
+                </x:xg>
+            </x:xp>
+        </x:tg>
+        <x:tg>
+            <x:dg>
+                <x:v>anat</x:v>
+                <x:d>inimesel</x:d>
+            </x:dg>
+            <x:xp xml:lang="ru">
+                <x:xg>
+                    <x:x>зев</x:x>
+                    <x:vg>
+                        <x:vgvormid>зева</x:vgvormid>
+                        <x:vgsugu>м</x:vgsugu>
+                    </x:vg>
+                    <x:s x:l="ka">piltl</x:s>
+                </x:xg>
+            </x:xp>
+        </x:tg>
+        <x:tg>
+            <x:dg>
+                <x:d>loomal</x:d>
+            </x:dg>
+            <x:xp xml:lang="ru">
+                <x:xg>
+                    <x:x>пасть</x:x>
+                    <x:vg>
+                        <x:vgvormid>пасти</x:vgvormid>
+                        <x:vgsugu>ж</x:vgsugu>
+                    </x:vg>
+                    <x:s x:l="ka">piltl</x:s>
+                </x:xg>
+            </x:xp>
+        </x:tg>
+        <x:np>
+            <x:ng>
+                <x:n x:u="mn">hingekurk</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>дых"ательное г"орло</x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n x:w="nn">hundikurk</x:n>
+                <x:qnp>
+                    <x:v>med</x:v>
+                    <x:qng xml:lang="ru">
+                        <x:qn>в"олчья пасть</x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n>kurk on haige</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>г"орло бол"ит</x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n>kurk on kibe</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>в г"орле с"адн"ит</x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n>köhatas kurgu puhtaks</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>он отк"ашлялся &amp;v; отк"ашлянулся &amp;v; прок"ашлялся</x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n>kuristab rivanoolilahusega kurku</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>он пол"ощет г"орло раств"ором риван"ола</x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n>laps ajas &amp;v; tõmbas piima kurku</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>ребёнок захлебн"улся молок"ом</x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n>mul jäi kalaluu kurku kinni</x:n>
+                <x:n>mul[le] läks kalaluu kurku</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>я подав"ился р"ыбьей к"остью</x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n>toit ei lähe kurgust alla</x:n>
+                <x:qnp>
+                    <x:s>kõnek</x:s>
+                    <x:qng xml:lang="ru">
+                        <x:qn>кус"ок в г"орло не идёт</x:qn>
+                        <x:vrek>кому</x:vrek>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n>kurk kuivab &amp;v; kõrbeb</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>в г"орле перес"охло</x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n>suits läks kurku</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>я захлебн"улся д"ымом</x:qn>
+                    </x:qng>
+                    <x:qng xml:lang="ru">
+                        <x:qn>я задохн"улся от д"ыма</x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n>nutt tõuseb kurku</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>слёзы подступ"ают <x:xr>у кого</x:xr> к г"орлу
+                        </x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n x:w="nn">ahastus nööris kurku</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>отч"аяние сдав"ило <x:xr>у кого</x:xr> г"орло
+                        </x:qn>
+                    </x:qng>
+                    <x:qng xml:lang="ru">
+                        <x:qn>от отч"аяния <x:xr>у кого</x:xr> перехват"ило г"орло
+                        </x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n x:w="nn">sõnad jäid kurku kinni</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>слов"а застр"яли <x:xr>у кого</x:xr> в г"орле
+                        </x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n>sõi end kurguni täis</x:n>
+                <x:qnp>
+                    <x:s>piltl</x:s>
+                    <x:qng xml:lang="ru">
+                        <x:qn>он на"елся по г"орло</x:qn>
+                        <x:s>kõnek</x:s>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n>hunt kargas hobusele kurku kinni</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>волк вцеп"ился л"ошади в г"орло &amp;v; в ш"ею</x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n>särk oli kurguni kinni nööbitud</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>руб"ашка был"а застёгнута до с"амого г"орла</x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n>vulkaani suitsev kurk</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>дым"ящийся зев вулк"ана</x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n>süsi kadus ahju lõõmavasse kurku</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>"уголь исч"ез в пыл"ающей п"асти п"еч"и</x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+        </x:np>
+    </x:tp>
+    <x:tp x:tnr="2">
+        <x:tg>
+            <x:dg>
+                <x:d>väin</x:d>
+            </x:dg>
+            <x:xp xml:lang="ru">
+                <x:xg>
+                    <x:x>г"орло</x:x>
+                    <x:vg>
+                        <x:vgvormid>г"орла</x:vgvormid>
+                        <x:vgsugu>с</x:vgsugu>
+                    </x:vg>
+                </x:xg>
+            </x:xp>
+        </x:tg>
+    </x:tp>
+</x:S>
+<x:F>
+    <x:fg>
+        <x:f>kurku kastma &amp;v; niisutama &amp;v; loputama</x:f>
+        <x:fqnp>
+            <x:fqng xml:lang="ru">
+                <x:qf>промоч"ить* г"орло</x:qf>
+            </x:fqng>
+        </x:fqnp>
+    </x:fg>
+    <x:fg>
+        <x:f>kurgust alla laskma</x:f>
+        <x:fqnp>
+            <x:fqng xml:lang="ru">
+                <x:qf>пропив"ать/проп"ить*</x:qf>
+                <x:vrek>что</x:vrek>
+            </x:fqng>
+        </x:fqnp>
+    </x:fg>
+</x:F>
+<x:G>1040a6d1-9e3d-4be3-812b-7881be171667</x:G>
+</x:A>
+
+<x:A x:KF="ev21">
+<x:P>
+    <x:mg>
+        <x:m x:O="a">a</x:m>
+        <x:sl>s</x:sl>
+        <x:grg>
+            <x:mv>'a 'a 'a[d -, 'a[de 'a[sid</x:mv>
+            <x:sl1>s</x:sl1>
+            <x:mt>26</x:mt>
+        </x:grg>
+    </x:mg>
+</x:P>
+<x:S>
+    <x:tp x:tnr="1">
+        <x:tg>
+            <x:dg>
+                <x:d>täht</x:d>
+            </x:dg>
+            <x:xp xml:lang="ru">
+                <x:xg>
+                    <x:x>б"уква a (а)</x:x>
+                </x:xg>
+            </x:xp>
+        </x:tg>
+        <x:np>
+            <x:ng>
+                <x:n>väike a</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>строчн"ое a (а)</x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n>suur a (A)</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>прописн"ое &amp;v; загл"авное a (А)</x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+        </x:np>
+    </x:tp>
+    <x:tp x:tnr="2">
+        <x:tg>
+            <x:dg>
+                <x:d>häälik</x:d>
+            </x:dg>
+            <x:xp xml:lang="ru">
+                <x:xg>
+                    <x:x>звук a</x:x>
+                </x:xg>
+            </x:xp>
+        </x:tg>
+        <x:np>
+            <x:ng>
+                <x:n>lühike a</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>кр"аткий а</x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n>pikk a</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>д"олгий а</x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n>ülipikk a</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>сверхд"олгий а</x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+        </x:np>
+    </x:tp>
+</x:S>
+<x:F>
+    <x:fg>
+        <x:f>a ja o olema</x:f>
+        <x:fqnp>
+            <x:r>kus</x:r>
+            <x:fqng xml:lang="ru">
+                <x:qf>задав"ать тон</x:qf>
+                <x:vrek>где</x:vrek>
+            </x:fqng>
+        </x:fqnp>
+    </x:fg>
+    <x:fg>
+        <x:f><x:r>mille</x:r>a ja o
+        </x:f>
+        <x:fqnp>
+            <x:fqng xml:lang="ru">
+                <x:qf>"альфа и ом"ега</x:qf>
+                <x:vrek>чего</x:vrek>
+            </x:fqng>
+        </x:fqnp>
+    </x:fg>
+    <x:fg>
+        <x:f>a-st ja b-st [peale]</x:f>
+        <x:fqnp>
+            <x:fqng xml:lang="ru">
+                <x:qf>[начин"ать/нач"ать*] с аз"ов</x:qf>
+            </x:fqng>
+        </x:fqnp>
+    </x:fg>
+    <x:fg>
+        <x:f>[ei] a-d ega b-d</x:f>
+        <x:fqnp>
+            <x:fqng xml:lang="ru">
+                <x:qf>р"овным счётом ничег"о</x:qf>
+            </x:fqng>
+            <x:fqng xml:lang="ru">
+                <x:qf>ни бе, ни ме, ни кукар"еку</x:qf>
+                <x:s>madalk</x:s>
+            </x:fqng>
+        </x:fqnp>
+    </x:fg>
+</x:F>
+<x:G>69c4fcff-d576-4fc7-9565-c30434070590</x:G>
+</x:A>
+
+<x:A x:KF="ev21">
+<x:P>
+    <x:mg>
+        <x:m x:liik="y" x:O="ümberriietama">ümber riietama</x:m>
+        <x:sl>v</x:sl>
+    </x:mg>
+</x:P>
+<x:S>
+    <x:tp x:tnr="1">
+        <x:tg>
+            <x:dg>
+                <x:d>riideid vahetama</x:d>
+                <x:d>uute riietega varustama</x:d>
+            </x:dg>
+            <x:xp xml:lang="ru">
+                <x:xg>
+                    <x:x>переодев"ать</x:x>
+                    <x:vg>
+                        <x:vgvormid>переодев"аю, переодев"аешь</x:vgvormid>
+                    </x:vg>
+                    <x:aspg>
+                        <x:aspvst>переод"еть*</x:aspvst>
+                        <x:avg>
+                            <x:agvormid>переод"ену, переод"енешь</x:agvormid>
+                        </x:avg>
+                    </x:aspg>
+                    <x:vrek>кого-что</x:vrek>
+                    <x:vrek>во что</x:vrek>
+                </x:xg>
+            </x:xp>
+        </x:tg>
+        <x:np>
+            <x:ng>
+                <x:n>pole veel mahti saanud end ümber riietada</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn><x:xr>кто</x:xr>не усп"ел ещё переод"еться
+                        </x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n>merevägi on kavas musta vormi ümber riietada</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>есть нам"ерение переод"еть во"енно-морск"ие с"илы в ф"орму чёрного цв"ета</x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+        </x:np>
+    </x:tp>
+</x:S>
+<x:G>3b9d5a81-b1c0-40d9-9ecf-b073ae4b1d39</x:G>
+</x:A>
+
+<x:A>
+<x:P>
+    <x:mg>
+        <x:m x:u="uus" x:O="üldjuhul">üld+juhul</x:m>
+        <x:sl>adv</x:sl>
+    </x:mg>
+</x:P>
+<x:S>
+    <x:tp x:tnr="1">
+        <x:tg>
+            <x:dg>
+                <x:d>tavaliselt, enamasti</x:d>
+            </x:dg>
+        </x:tg>
+    </x:tp>
+</x:S>
+<x:G>406fcdc1-1761-439d-bc98-bdd74448152d</x:G>
+</x:A>
+
+<x:A x:KF="ev21">
+<x:P>
+    <x:mg>
+        <x:m x:O="õieline+">+õieline</x:m>
+        <x:sl>adj</x:sl>
+        <x:gki>liitsõna järelosa</x:gki>
+        <x:grg>
+            <x:mv>+õieline õielise õielis[t õielis[se, õielis[te õielis/i</x:mv>
+            <x:sl1>adj</x:sl1>
+            <x:mt>12</x:mt>
+        </x:grg>
+    </x:mg>
+</x:P>
+<x:S>
+    <x:tp x:tnr="1">
+        <x:tg>
+            <x:dg>
+                <x:d>liitnimi- ja liitomadussõnade järelosana</x:d>
+            </x:dg>
+            <x:xp xml:lang="ru">
+                <x:xg>
+                    <x:x>-цв"етный</x:x>
+                    <x:vg>
+                        <x:vgvormid>-цв"етная, -цв"етное</x:vgvormid>
+                    </x:vg>
+                </x:xg>
+                <x:xg>
+                    <x:x>-цветк"овый</x:x>
+                    <x:vg>
+                        <x:vgvormid>-цветк"овая, -цветк"овое</x:vgvormid>
+                    </x:vg>
+                </x:xg>
+                <x:xg>
+                    <x:x><x:xr>с какими</x:xr>цветк"ами
+                    </x:x>
+                </x:xg>
+            </x:xp>
+        </x:tg>
+        <x:np>
+            <x:ng>
+                <x:n>erksaõieline</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>с кр"асочными &amp;v; с "яркими цветк"ами</x:qn>
+                    </x:qng>
+                    <x:qng xml:lang="ru">
+                        <x:qn>цвет"истый</x:qn>
+                        <x:s>kõnek</x:s>
+                    </x:qng>
+                    <x:qng xml:lang="ru">
+                        <x:qn>цвет"астый</x:qn>
+                        <x:s>kõnek</x:s>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n>kauniõieline</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>с крас"ивыми &amp;v; с прел"естными цветк"ами</x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n>longusõieline</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>с пон"икшими цветк"ами</x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n x:w="nn">rohkeõieline</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>многоцветк"овый</x:qn>
+                        <x:v>bot</x:v>
+                    </x:qng>
+                    <x:qng xml:lang="ru">
+                        <x:qn>многоцв"етный</x:qn>
+                        <x:v>bot</x:v>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n x:w="nn">siniseõieline</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>с голуб"ыми &amp;v; с с"иними цветк"ами &amp;v; бут"онами</x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n x:w="nn">suureõieline</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>крупноцв"етный</x:qn>
+                    </x:qng>
+                    <x:qng xml:lang="ru">
+                        <x:qn>крупноцветк"овый</x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n x:u="mn">täidisõieline</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>махр"овый</x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+            <x:ng>
+                <x:n x:w="nn">väikeseõieline</x:n>
+                <x:qnp>
+                    <x:qng xml:lang="ru">
+                        <x:qn>малоцветк"овый</x:qn>
+                    </x:qng>
+                </x:qnp>
+            </x:ng>
+        </x:np>
+    </x:tp>
+</x:S>
+<x:G>80d0d87e-4479-4a5e-87b8-ef9a43bf051b</x:G>
+</x:A>

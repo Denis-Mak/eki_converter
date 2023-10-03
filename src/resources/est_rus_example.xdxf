@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xdxf revision="34">
+    <meta_info>
+        <languages>
+            <from xml:lang="EST"/>
+            <to xml:lang="RUS"/>
+        </languages>
+        <title>Eesti-Vene EKI sõnastik</title>
+        <description>Eesti-Vene sõnastik converted from http://www.eki.ee/dict/evs/</description>
+        <file_ver>1.0</file_ver>
+        <creation_date>2-Oct-2023</creation_date>
+        <last_edited_date>2-Oct-2023</last_edited_date>
+    </meta_info>
+    <lexicon>
+        <ar>
+            <k>aabits</k>
+            <gr>n. <i>aabits aabitsa aabitsa[t -, aabitsa[te aabitsa[id</i></gr>
+            <b>букварь; азбука</b>
+            <ex>liikuv aabits - складная азбука; касса для букв</ex>
+            <ex>käitumise aabits - азбука поведения</ex>
+        </ar>
+        <ar>
+            <k>kurk</k>
+            <gr>n. <i>k'urk kurgi k'urki k'urki, k'urki[de k'urki[sid_~_k'urk/e</i></gr>
+            1) <b>огурец</b> <i>(köögiviljataim, selle vili)</i>
+            <ex>harilik kurk - обыкновенный ~ посевной огурец</ex>
+            <ex>hapendatud kurgid - солёные огурцы</ex>
+            2) <b>огуречик</b> <i>(kõnekeeles)</i>
+        </ar>
+        <ar>
+            <k>kurk</k>
+            <gr>n. <i>k'urk kurgu k'urku k'urku, k'urku[de k'urku[sid_~_k'urk/e</i></gr>
+            <b>горло; зев; пасть</b> <i>(üldkeeles)</i>
+            <ex>hingekurk - дыхательное горло</ex>
+            <ex>hundikurk <i>(med)</i> - волчья пасть</ex>
+            <ex type="phr"><b>kurku kastma ~ niisutama ~ loputama</b> - промочить горло</ex>
+            <ex type="phr"><b>kurgust alla laskma</b> - пропивать/пропить</ex>
+        </ar>
+    </lexicon>
+</xdxf>
